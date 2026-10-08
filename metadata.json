@@ -1,0 +1,6 @@
+{
+  "name": "SkillUp AI",
+  "description": "AI-driven behavioral and communication coach bridging academic study and professional workplace success with live speech analysis, confidence metrics, and scenario simulation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
